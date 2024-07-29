@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Api", "Fina.Api\Fina.Api.csproj", "{B35C85AC-B601-4507-AF62-3A42C1E47D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Core", "Fina.Core\Fina.Core.csproj", "{D7487F2C-614B-4B30-9434-9DA89FDB9497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Web", "Fina.Web\Fina.Web.csproj", "{D36ED053-0AF3-49ED-8FAB-E7F292986EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35C85AC-B601-4507-AF62-3A42C1E47D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35C85AC-B601-4507-AF62-3A42C1E47D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35C85AC-B601-4507-AF62-3A42C1E47D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35C85AC-B601-4507-AF62-3A42C1E47D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7487F2C-614B-4B30-9434-9DA89FDB9497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7487F2C-614B-4B30-9434-9DA89FDB9497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7487F2C-614B-4B30-9434-9DA89FDB9497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7487F2C-614B-4B30-9434-9DA89FDB9497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36ED053-0AF3-49ED-8FAB-E7F292986EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36ED053-0AF3-49ED-8FAB-E7F292986EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36ED053-0AF3-49ED-8FAB-E7F292986EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36ED053-0AF3-49ED-8FAB-E7F292986EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
